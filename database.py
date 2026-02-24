@@ -56,7 +56,7 @@ import os
 from config import LAST_HISTORICAL_DATE
 
 # Path to CSV file
-DATA_PATH = "data/bed_inventory.csv"
+DATA_PATH = "Data/bed_inventory.csv"
 
 
 def load_all_data():
