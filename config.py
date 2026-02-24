@@ -16,4 +16,4 @@ FORECAST_DAYS = 14
 
 #DATABASE_URL = os.getenv("DATABASE_URL")
 
-DATA_PATH = "data/bed_inventory.csv"
+DATA_PATH = "Data/bed_inventory.csv"
